@@ -1,0 +1,5 @@
+git init PAF_01
+cd PAF_01
+git add HelloWorld.html // git add --all
+git status
+git commit -m "My First Commit"
